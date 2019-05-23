@@ -48,8 +48,10 @@ div#tableRow {
 
 section#member1 {
     display: table-cell;
-    background: url('../static/3.jpg');
-    background-size: 420px,550px;
+    /* background: url('../static/3.jpg');*/
+    background-size: 420px,550px; 
+    background:       #efe5d0 url(images/background.gif) top left;
+    font-size:        105%;
     width: 33%;
     height: 500px;
     padding: 15px;
