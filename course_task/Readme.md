@@ -12,6 +12,9 @@
     python manage.py runserver + 端口号
     ```
 
+运行进入页面后在网页地址后加入/login即可进入登录页面
+用户名不限，密码为 123456
+
 ### 文件说明
 
 - Course_task文件夹中都是django自带的配置文件
